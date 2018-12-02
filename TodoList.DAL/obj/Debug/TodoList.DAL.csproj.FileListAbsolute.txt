@@ -1,0 +1,11 @@
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.DAL.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.DAL.pdb
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.Core.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.DomainModel.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.Core.pdb
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\bin\Debug\TodoList.DomainModel.pdb
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\obj\Debug\TodoList.DAL.csprojAssemblyReference.cache
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\obj\Debug\TodoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\obj\Debug\TodoList.DAL.csproj.CopyComplete
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\obj\Debug\TodoList.DAL.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DAL\obj\Debug\TodoList.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\bin\Debug\TodoList.DomainModel.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\bin\Debug\TodoList.DomainModel.pdb
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\obj\Debug\TodoList.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\obj\Debug\TodoList.DomainModel.dll
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\obj\Debug\TodoList.DomainModel.pdb
+C:\Users\jacksonpushpanathan\Development\TodoList\TodoList.DomainModel\obj\Debug\TodoList.DomainModel.csprojAssemblyReference.cache
